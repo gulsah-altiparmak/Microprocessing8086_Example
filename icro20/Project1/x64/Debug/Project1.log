@@ -1,0 +1,7 @@
+﻿  Assembling asm.asm...
+asm.asm(10): error A2031: must be index or base register
+asm.asm(19): error A2031: must be index or base register
+asm.asm(20): error A2031: must be index or base register
+asm.asm(22): error A2031: must be index or base register
+asm.asm(23): error A2031: must be index or base register
+C:\vs\Common7\IDE\VC\VCTargets\BuildCustomizations\masm.targets(69,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\asm.obj" /W3 /errorReport:prompt  /Taasm.asm" exited with code 1.

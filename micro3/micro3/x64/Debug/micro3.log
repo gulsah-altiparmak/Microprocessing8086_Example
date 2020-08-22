@@ -1,0 +1,5 @@
+﻿  Source.cpp
+Source.obj : error LNK2019: unresolved external symbol Multiply referenced in function main
+Source.obj : error LNK2019: unresolved external symbol Divide referenced in function main
+Source.obj : error LNK2019: unresolved external symbol Remainder referenced in function main
+C:\Users\Gülşah\source\repos\micro3\x64\Debug\micro3.exe : fatal error LNK1120: 3 unresolved externals
